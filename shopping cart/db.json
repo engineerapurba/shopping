@@ -1,0 +1,83 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "glass",
+      "description": "Here are some adjectives for eyeglasses: sceptical and somewhat supercilious, larger, old-fashioned",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/313KvOFWUzL.jpg",
+      "price": 599
+    },
+    {
+      "id": 2,
+      "name": "Rubik's Cube",
+      "description": "Improve your memory. Are you solving Rubik's cube with the help of algorithms ",
+      "imageUrl": "https://www.rubiks.com/media/catalog/product/cache/9c57e2fe71f8a58f6afba681a0a15dd4/r/u/rubiks-cube-family-collection-solved.jpg",
+      "price": 199
+    },
+    {
+      "id": 3,
+      "name": "SG Ball",
+      "description": "The SG Ball uses a thicker thread to stitch the seam and it is much closer than the other balls",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0074/1880/6319/products/tournament-special2_619x.jpg?v=1579243363",
+      "price": 799
+    },
+    {
+      "id": 4,
+      "name": "SG Bat",
+      "description": "When you get a new cricket bat it has to be knocked in before use. This helps prevent the bat from cracking when the hard cricket ball hits the blade",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_XbLeGlAdUs0n077oqh_nAVyOgM3wEjnv-w&usqp=CAU",
+      "price": 1599
+    },
+    {
+      "id": 5,
+      "name": "Men's Dress",
+      "description": "Men's clothing though is basically structured around the pants and shirts but still they can be categorized in to formal wear, business wear, casual wear and athletic/sport wear which are divided on the basis of the occasion they are worn on.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0162/2116/files/Mens_Dress_Shirt_Looks_1.jpg?v=1525457925",
+      "price": 1399
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 3,
+        "name": "SG Ball",
+        "description": "The SG Ball uses a thicker thread to stitch the seam and it is much closer than the other balls",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0074/1880/6319/products/tournament-special2_619x.jpg?v=1579243363",
+        "price": 799
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "SG Ball",
+        "description": "The SG Ball uses a thicker thread to stitch the seam and it is much closer than the other balls",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0074/1880/6319/products/tournament-special2_619x.jpg?v=1579243363",
+        "price": 799
+      },
+      "id": 2
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
